@@ -1,0 +1,18 @@
+.odd_number {
+  background-color: rgb(255, 167, 167);
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+#second_number {
+  color: blue;
+  font-size: 36px;
+}
+
+.bigger {
+  font-size: 24px;
+}
+
+#forth_number {
+  background-color: hsl(120, 100%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
